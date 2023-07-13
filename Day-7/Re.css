@@ -1,0 +1,20 @@
+.rebox{
+    border:3px;
+    border-color: blue;
+    border-style:groove;
+    width: 300px;
+    height: 500px;
+    padding:45px;
+    margin: 20px;
+    float:right;
+    margin-top: 120px;
+    margin-right: 180px;
+    background-color: rgb(78, 251, 251);
+    border-radius: 50px;
+}
+.reh1{
+    text-align: center;
+    /* margin-top: 150px; */
+   font-family:fantasy;
+   letter-spacing: 1.5px;
+}
