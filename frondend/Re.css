@@ -1,0 +1,113 @@
+.rebox{
+    border:3px;
+    border-color: blue;
+    border-style:groove;
+    width: 410px;
+    height:650px;
+    padding:0px;
+    margin: 20px;
+    float:right;
+    /* margin-top: 120px; */
+    margin-right: 180px;
+    background-image: radial-gradient(circle, #D4F4EC,#FFD8C5, #FEA889);
+    border-radius: 50px;
+}
+/*
+.reh1{
+    text-align: center;
+   font-family:fantasy;
+   letter-spacing: 1.5px;
+}*/
+.reinput36{
+    height: 40px;
+    width:310px;
+    font-size:16px;
+} 
+.button-64 {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 20px;
+    justify-content: center;
+    line-height: 1em;
+    max-width: 100%;
+    min-width: 140px;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  
+  .button-64:active,
+  .button-64:hover {
+    outline: 0;
+  }
+  
+  .button-64 span {
+    background-color: rgb(5, 6, 45);
+    padding: 16px 24px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+  }
+  
+  .button-64:hover span {
+    background: none;
+  }
+  
+  @media (min-width: 768px) {
+    .button-64 {
+      font-size: 24px;
+      min-width: 196px;
+    }
+  }
+/* 
+#register, #login {
+    width: 300px;
+    border: 1px solid #d6d7da; padding: 0px 15px 15px 15px; border-radius: 5px;
+    font-family: arial; line-height: 16px; color: #333333; font-size: 14px;
+    background: #ffffff; margin: 100px auto;
+    }
+    form label, form input { display: block;
+    margin-bottom: 10px; width: 90%
+    }
+    form input { padding: 10px;
+    border: solid 1px #BDC7D8;
+    }
+    .button {
+    background-color: #00BFFF; border-color: #3ac162; font-weight: bold; padding: 12px 15px; color: #ffffff;
+    }
+    .errorMsg { color: #cc0000;
+    margin-bottom: 12px;
+    }
+    .sucessMsg { color: #6B8E23;
+    margin-bottom: 10px;
+    } */
+    
+.rebody13{
+  height:710px;
+   width:870px;
+ /* padding:45px;
+  margin: 20px;
+  float: left;
+  margin-left:150px;
+  border-radius:50px; */
+}
+
+.container{
+    text-align: center;
+}
+
+.r{
+  background-image: linear-gradient(circle,rgb(220, 192, 139),rgb(109, 238, 109));
+}
